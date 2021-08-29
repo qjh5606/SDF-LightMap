@@ -13,7 +13,13 @@
 
 ![美术绘制的多张中间过程图](https://img-blog.csdnimg.cn/f6d7b55174ef4a04ab2c60080d350ad1.png#pic_center)
 
-输出结果：
+生成的SDF图：
+
+
+![SDF图](https://img-blog.csdnimg.cn/e7a0875706614270a5e32d5097d9779c.png#pic_center)
+
+
+生成的脸部阴影图：
 
 - 注，这里显示的就是线性的数值。而非Gamma SRGB。（笔者在输出图像前先作了逆Gamma校正）。
 
